@@ -19,15 +19,15 @@ _Se sugiere la instalación de [Git](https://git-scm.com/) y un editor de códig
 ## Construido con 🛠️
 
 
-* Node [](https://nodejs.org/en)
-* Express [](https://expressjs.com/es/)
-* Docker Desktop [](https://www.docker.com/products/docker-desktop/)
-* Postman [](https://www.postman.com/)
-* Boom [](https://www.npmjs.com/package/@hapi/boom)
-* Bcrypt [](https://www.npmjs.com/package/bcrypt)
-* Joi [](https://joi.dev/)
-* JWT [](https://jwt.io/)
-* Sequelize [](https://sequelize.org/)
+* Node [Node](https://nodejs.org/en)
+* Express [Express](https://expressjs.com/es/)
+* Docker Desktop [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+* Postman [Postman](https://www.postman.com/)
+* Boom [Boom](https://www.npmjs.com/package/@hapi/boom)
+* Bcrypt [Bcrypt](https://www.npmjs.com/package/bcrypt)
+* Joi [Joi](https://joi.dev/)
+* JWT [JWT](https://jwt.io/)
+* Sequelize [Sequelize](https://sequelize.org/)
 
 ## Contribuyendo 🖇️
 
